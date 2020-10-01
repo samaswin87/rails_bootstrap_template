@@ -53,10 +53,10 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'administrate', github: 'excid3/administrate', branch: 'jumpstart'
+gem 'administrate', github: 'samaswin87/administrate', branch: 'master'
 gem 'bootstrap', '~> 4.5'
 gem 'devise', '~> 4.7', '>= 4.7.1'
-gem 'devise-bootstrapped', github: 'excid3/devise-bootstrapped', branch: 'bootstrap4'
+gem 'devise-bootstrapped', github: 'samaswin87/devise-bootstrapped', branch: 'bootstrap4'
 gem 'devise_masquerade', '~> 1.2'
 gem 'font-awesome-sass', '~> 5.13'
 gem 'friendly_id', '~> 5.3'

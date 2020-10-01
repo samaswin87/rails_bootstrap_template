@@ -1,13 +1,12 @@
 GIT
-  remote: https://github.com/excid3/administrate.git
-  revision: 239ec5bb8c064ca28b010cc5497882493dd4494f
-  branch: jumpstart
+  remote: https://github.com/samaswin87/administrate.git
+  revision: af25be26aeda7a26bb072de302828ff49d0c7c35
+  branch: master
   specs:
     administrate (0.14.0)
-      actionpack (>= 4.2)
-      actionview (>= 4.2)
-      activerecord (>= 4.2)
-      autoprefixer-rails (>= 6.0)
+      actionpack (>= 5.0)
+      actionview (>= 5.0)
+      activerecord (>= 5.0)
       datetime_picker_rails (~> 0.0.7)
       jquery-rails (>= 4.0)
       kaminari (>= 1.0)
@@ -16,11 +15,11 @@ GIT
       selectize-rails (~> 0.6)
 
 GIT
-  remote: https://github.com/excid3/devise-bootstrapped.git
-  revision: a963d93052ce0069d050e4615fb06e95dc30ac2b
+  remote: https://github.com/samaswin87/devise-bootstrapped.git
+  revision: 59e23f0673c9a273be765ca26091c5792cd25fa7
   branch: bootstrap4
   specs:
-    devise-bootstrapped (0.2.0)
+    devise-bootstrapped (0.2.1)
 
 GEM
   remote: https://rubygems.org/
